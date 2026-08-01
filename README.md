@@ -4,26 +4,14 @@
 
 ---
 
-## 📖 Overview
-Python program implementing custom file handling and data format parsers.
+## 📋 Project Specifications
 
----
-
-## 📊 Project Specifications
-
-### 1. Dataset Details
-* **Source**: Local raw text/CSV inputs
-* **Size**: 1,000 data lines
-
-### 2. Method & Approach
-* **Approach**: Structured stream parsing and file system indexing
-* **Metric/Result**: Parses and loads dataset lines under 15ms
-
-### 3. Tech Stack & Tools
-* **Technologies**: Python
-
-### ✨ Differentiating Features
-- **Designed as a robust, single-file lightweight module with zero external dependencies**
+* **Overview**: "Python program implementing custom file handling and data format parsers."
+* **Dataset**: "Local raw text/CSV inputs, 1,000 data lines"
+* **Method**: "Structured stream parsing and file system indexing"
+* **Results**: "Parses and loads dataset lines under 15ms"
+* **Tech stack**: "Python"
+* **Unique feature**: "Designed as a robust, single-file lightweight module with zero external dependencies"
 
 ---
 
